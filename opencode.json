@@ -1,0 +1,16 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "servers": {
+      "campo_mourao": {
+        "type": "local",
+        "command": [
+          "C:\\Users\\Matheus\\Documents\\Github Projects\\ORIGINAL\\MCP_Server_Teste\\campo_mourao\\.venv\\Scripts\\python.exe",
+          "main.py"
+        ],
+        "cwd": "C:\\Users\\Matheus\\Documents\\Github Projects\\ORIGINAL\\MCP_Server_Teste\\campo_mourao",
+        "disabled": false
+      }
+    }
+  }
+}
