@@ -5,11 +5,15 @@
       "campo_mourao": {
         "type": "local",
         "command": [
-          "C:\\Users\\Matheus\\Documents\\Github Projects\\ORIGINAL\\MCP_Server_Teste\\campo_mourao\\.venv\\Scripts\\python.exe",
-          "main.py"
+          "cmd.exe",
+          "/d",
+          "/c",
+          "iniciar_mcp.cmd"
         ],
-        "cwd": "C:\\Users\\Matheus\\Documents\\Github Projects\\ORIGINAL\\MCP_Server_Teste\\campo_mourao",
-        "disabled": false
+        "cwd": "C:\\Users\\Matheus\\Documents\\Github Projects\\ORIGINAL\\MCP_Server_Teste",
+        "disabled": false,
+        "codemode": false,
+        "timeout": 30000
       }
     }
   }
